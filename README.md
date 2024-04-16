@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhagihara
 - 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning Data Science and Object-Oriented Programing
+- 🌱 I’m currently learning Object-Oriented Programing
 - 📫 How to reach me - jesshagihara@gmail.com
 
 
