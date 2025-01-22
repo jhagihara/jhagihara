@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jhagihara
-- 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning Object-Oriented Programing at Northeastern University
-- 📫 How to reach me - jesshagihara@gmail.com
+- Hi, I'm Jess
+- I’m interested in AI and Machine Learning
+- I'm studying data science and math at Northeastern University
+- jesshagihara@gmail.com
 
 
 <!---
